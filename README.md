@@ -1,5 +1,5 @@
 <center>
-### Michael Williams 
+   <h1>Michael Williams</h1> 
 </center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Michaelw746&theme=dark)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelw746&hide_progress=true)
