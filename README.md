@@ -7,4 +7,4 @@
 
 
 ### About me 
-I am an aspiring web developer who is also interested in learning game development. Currently, I am in the process of learning both fields. I have a passion for coding and enjoy playing video games. I spend a significant amount of time in my room, honing my skills in these areas. 
+I am an aspiring web developer who is also interested in learning game development And Artificial intelligence. Currently, I am in the process of learning both fields. I have a passion for coding and enjoy playing video games. I spend a significant amount of time in my room, honing my skills in these areas. 
