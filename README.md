@@ -3,7 +3,7 @@
 </center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Michaelw746&theme=dark)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelw746&hide_progress=true)
-![stalker](https://github.com/Michaelw746/Michaelw746/assets/60281276/ec03f4c7-029b-4495-9597-de8454316d88)
+![stalker](https://github.com/Michaelw746/Michaelw746/assets/60281276/ec03f4c7-029b-4495-9597-de8454316d88 =100x100)
 
 
 ### About me 
