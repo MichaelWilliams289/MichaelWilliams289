@@ -4,8 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Michaelw746&theme=dark)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelw746&hide_progress=true)
 
-![](https://tenor.com/view/stalker-gif-22322541)
-
+<div class="tenor-gif-embed" data-postid="22322541" data-share-method="host" data-aspect-ratio="0.984375" data-width="100%"><a href="https://tenor.com/view/stalker-gif-22322541">Stalker GIF</a>from <a href="https://tenor.com/search/stalker-gifs">Stalker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ### About me 
