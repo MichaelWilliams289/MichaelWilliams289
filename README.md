@@ -8,6 +8,7 @@ I'm a 14-year-old aspiring Software Engineer with a deep passion for gaming. Cur
 Additionally, I am learning C++. I know how to handle input and work with string variables, but I am still struggling with some aspects. However, I am determined and will never give up. also planing to join Imesense Which is a programmer group and make the ixray-engine which is Stable repository of the modernized X-Ray 1.6 game engine and it the reason why i learning c++ which i buff up my experance in programming 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MichaelWilliams289" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWilliams&layout=compact)
 
 <img src="https://github.com/MichaelWilliams289/MichaelWilliams289/assets/60281276/ec03f4c7-029b-4495-9597-de8454316d88" alt="stalker" width="200" height="200">
 
