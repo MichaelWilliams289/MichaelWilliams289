@@ -10,8 +10,4 @@ Additionally, I am learning C++. I know how to handle input and work with string
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MichaelWilliams289" alt="GitHub Streak" /></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWilliams&layout=compact)
 
-<img src="https://github.com/MichaelWilliams289/MichaelWilliams289/assets/60281276/ec03f4c7-029b-4495-9597-de8454316d88" alt="stalker" width="200" height="200">
 
-
-
-<img src="https://github.com/MichaelWilliams289/MichaelWilliams289/assets/60281276/ebea661d-fcb7-4a19-946b-4277a8e0c367" alt="boris" width="200" height="200">
